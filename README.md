@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @butterflvys
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Android Studio with ka iyo
-- 💞️ I’m looking to collaborate on Gmail
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me on instagram : @yraya.ay
 
 <!---
